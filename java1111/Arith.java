@@ -1,0 +1,11 @@
+class Arith
+{
+	add()
+	{
+		
+	}
+	subtract()
+	{
+		
+	}
+}
